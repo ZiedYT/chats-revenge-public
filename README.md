@@ -3,7 +3,7 @@ DM me for any issues :)
 ## Features
 - Runs locally (for free :D) in your PC to enable channel points rewards
 - Rewards:
-    - Chat can timeout each other
+    - Chat can timeout/untimeout each other
     - Chat can turn off your monitor
     - Chat can turn off your camera
     - Chat can simulate keyboard presses
@@ -27,6 +27,7 @@ DM me for any issues :)
     - If you want to use a reward, make sure the checkbox is ticked.
     - You can specify some parameters like the duration of the timeouts/ black monitor etc...
 - More Info:
+    - fail-safe: press on esc+q and the current effects will expire
     - Camera:   
         - Allow chat to temporarily disabled your camera.     
         - This reward uses OBS virtual cam. To use it, you have to add the OBS virtual cam as your camera input in your OBS. 
@@ -41,6 +42,7 @@ DM me for any issues :)
         - You can specify if the reward is stackable
     - Timeouts:
         - Allow chat to timeout each other.
+        - Doesn't work on mods/vips
         - You can specify the duration for which the the chatter will be timed out for.
         - You can specify if the duration is stackable, ie the new time out duration = time left in the previous timeout + duration specified
     - Untimeouts:
