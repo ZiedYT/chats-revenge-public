@@ -12,8 +12,7 @@ DM me for any issues :)
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/ChannelPointsBot_public/releases)
 - Extract the zip
-- Open the main folder
-- Run rewardsBot.exe (or rewardsBot_noconsole.exe if you dont want the console to be open)
+- Run rewardsBot.exe (or rewardsBot_console.exe if you want to see the console for errors)
 - A window will open, go to the second tab (credentials)
     - Type your channel name
     - Press the get token button
@@ -27,6 +26,7 @@ DM me for any issues :)
     - If you want to use a reward, make sure the checkbox is ticked.
     - You can specify some parameters like the duration of the timeouts/ black monitor etc...
 - More Info:
+    - If you minimize the window you will find the program in your try, right click it    
     - fail-safe: press on esc+q and the current effects will expire
     - Camera:   
         - Allow chat to temporarily disabled your camera.     
