@@ -1,1 +1,53 @@
-# ChannelPointsBot_public
+# Twitch Channel Points Bot, by ZiedYT
+DM me for any issues :)
+## Features
+- Runs locally (for free :D) in your PC to enable channel points rewards
+- Rewards:
+    - Chat can timeout each other
+    - Chat can turn off your monitor
+    - Chat can turn off your camera
+    - Chat can simulate keyboard presses
+    - Chat can disable your keyboard/mouse
+    - More to come :D
+## How To Use
+- Download the zip of the lastest release [here](https://github.com/ZiedYT/ChannelPointsBot_public/releases)
+- Extract the zip
+- Open the main folder
+- Run rewardsBot.exe (or rewardsBot_noconsole.exe if you dont want the console to be open)
+- A window will open, go to the second tab (credentials)
+    - Type your channel name
+    - Press the get token button
+    - Authorize and copy the token
+    - Paste the token in the second line
+- Open the third tab:
+    - Here you can press the create reward button to add a reward in your channel
+    - You can specify the title, description and cost
+    - Create the rewards you want to use
+- Open the first tab:
+    - If you want to use a reward, make sure the checkbox is ticked.
+    - You can specify some parameters like the duration of the timeouts/ black monitor etc...
+- More Info:
+    - Camera:   
+        - Allow chat to temporarily disabled your camera.     
+        - This reward uses OBS virtual cam. To use it, you have to add the OBS virtual cam as your camera input in your OBS. 
+        - You have to disbale your main camera in your OBS since two applications cant have access to the same camera at the same time.
+        - When you use this reward, you will not be able to use OBS virtual camera to display your OBS capture as a camera since only one application can write into OBS virtual camera.
+        - You can choose which camera you want to use in the dropdown list
+        - You can specify the duration for which the camera will be disabled
+        - You can specify if the duration is stackable (eg if 3 people claim the reward the camera will be disabled 3 times longer)
+    - Monitor:
+        - Allow chat to temporarily disable your monitors.
+        - You can specify the duration for which the monitors will be disabled
+        - You can specify if the reward is stackable
+    - Timeouts:
+        - Allow chat to timeout each other.
+        - You can specify the duration for which the the chatter will be timed out for.
+        - You can specify if the duration is stackable, ie the new time out duration = time left in the previous timeout + duration specified
+    - Untimeouts:
+        - Allow chat to remove timeouts
+    - Keyboard:
+        - Allow chat to simulate keyboard presses.
+        - You can specify the duration of the key press
+        - You can specify if the duration is stackable
+        - You can choose which of the special keys can be simulated: alt, shift, ctrl, esc, enter, tab, function keys(f1, f2...) 
+
