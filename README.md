@@ -5,9 +5,11 @@ DM me for any issues :)
 - Rewards:
     - Chat can timeout/untimeout each other
     - Chat can turn off your monitor
+    - Chat can blur your monitor
     - Chat can turn off your camera
     - Chat can simulate keyboard presses
     - Chat can disable your keyboard/mouse
+    - Chat can playsounds
     - More to come :D
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/ChannelPointsBot_public/releases)
@@ -37,7 +39,7 @@ DM me for any issues :)
         - You can specify the duration for which the camera will be disabled
         - You can specify if the duration is stackable (eg if 3 people claim the reward the camera will be disabled 3 times longer)
     - Monitor:
-        - Allow chat to temporarily disable your monitors.
+        - Allow chat to temporarily disable/blur your monitors.
         - You can specify the duration for which the monitors will be disabled
         - You can specify if the reward is stackable
     - Timeouts:
@@ -51,5 +53,14 @@ DM me for any issues :)
         - Allow chat to simulate keyboard presses.
         - You can specify the duration of the key press
         - You can specify if the duration is stackable
-        - You can choose which of the special keys can be simulated: alt, shift, ctrl, esc, enter, tab, function keys(f1, f2...) 
+        - You can choose which of the special keys can be simulated: alt, shift, ctrl, esc, enter, tab, function keys(f1, f2...)
+    - Playsounds:
+        - To add a sound, you can either:
+            - create a new sub folder called sounds, and place the .mp3 there
+            - or remotely (by mods for example) by:
+                - Creating a pastebin link
+                - Uploading an mp3 to google drive (make it public), copy its link
+                - Add a new line in your pastebin, eg, file_name: drive_url
+                - Copy the pastebin link in the field provided in the program
+        - Chat has to type the file name to play the sound
 
