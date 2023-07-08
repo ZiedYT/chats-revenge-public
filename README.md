@@ -55,6 +55,7 @@ DM me for any issues :)
         - You can specify if the duration is stackable
         - You can choose which of the special keys can be simulated: alt, shift, ctrl, esc, enter, tab, function keys(f1, f2...)
     - Playsounds:
+        - Make sure that you have VLC win64 (double check if it is actually 64)    
         - To add a sound, you can either:
             - create a new sub folder called sounds, and place the .mp3 there
             - or remotely (by mods for example) by:
