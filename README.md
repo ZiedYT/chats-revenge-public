@@ -63,5 +63,5 @@ DM me for any issues :)
                 - Uploading an mp3 to google drive (make it public), copy its link
                 - Add a new line in your pastebin, eg, file_name: drive_url
                 - Copy the pastebin link in the field provided in the program
-        - Chat has to type the file name to play the sound
+        - Chat has to type the file name to play the sound (or a random one will be selected)
 
