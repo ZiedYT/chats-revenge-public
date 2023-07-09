@@ -6,6 +6,7 @@ DM me for any issues :)
     - Chat can timeout/untimeout each other
     - Chat can turn off your monitor
     - Chat can blur your monitor
+    - Chat can rotate your monitor
     - Chat can turn off your camera
     - Chat can simulate keyboard presses
     - Chat can disable your keyboard/mouse
@@ -39,8 +40,8 @@ DM me for any issues :)
         - You can specify the duration for which the camera will be disabled
         - You can specify if the duration is stackable (eg if 3 people claim the reward the camera will be disabled 3 times longer)
     - Monitor:
-        - Allow chat to temporarily disable/blur your monitors.
-        - You can specify the duration for which the monitors will be disabled
+        - Allow chat to temporarily disable/blur/rotate your monitors.
+        - You can specify the duration for which the monitors will be affected
         - You can specify if the reward is stackable
     - Timeouts:
         - Allow chat to timeout each other.
