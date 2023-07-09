@@ -46,6 +46,7 @@ DM me for any issues :)
     - Timeouts:
         - Allow chat to timeout each other.
         - Doesn't work on mods/vips
+        - If you want to prevent more specific users from getting banned, make a text file named "immune.txt", and type the name of the users, each name in a new line
         - You can specify the duration for which the the chatter will be timed out for.
         - You can specify if the duration is stackable, ie the new time out duration = time left in the previous timeout + duration specified
     - Untimeouts:
