@@ -27,7 +27,7 @@ DM me for any issues :)
     - Create the rewards you want to use
 - Open the first tab:
     - If you want to use a reward, make sure the checkbox is ticked.
-    - You can specify some parameters like the duration of the timeouts/ black monitor etc...
+    - You can specify some parameters like the duration etc...
 - More Info:
     - If you minimize the window you will find the program in your try, right click it    
     - fail-safe: press on esc+q and the current effects will expire
