@@ -15,7 +15,7 @@ DM me for any issues :)
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/ChannelPointsBot_public/releases)
 - Extract the zip
-- Make sure you have [vlc 64](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe)
+- Make sure you have [VLC win64](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe) and not 32.
 - Run rewardsBot.exe (or rewardsBot_console.exe if you want to see the console for errors)
 - A window will open, go to the second tab (credentials)
     - Type your channel name
@@ -58,7 +58,7 @@ DM me for any issues :)
         - You can specify if the duration is stackable
         - You can choose which of the special keys can be simulated: alt, shift, ctrl, esc, enter, tab, function keys(f1, f2...)
     - Playsounds:
-        - Make sure that you have VLC win64 (double check if it is actually 64)    
+        - Make sure that you have [VLC win64](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe) (double check if it is actually 64)    
         - To add a sound, you can either:
             - create a new sub folder called sounds, and place the .mp3 there
             - or remotely (by mods for example) by:
