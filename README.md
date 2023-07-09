@@ -15,6 +15,7 @@ DM me for any issues :)
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/ChannelPointsBot_public/releases)
 - Extract the zip
+- Make sure you have [vlc 64](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe)
 - Run rewardsBot.exe (or rewardsBot_console.exe if you want to see the console for errors)
 - A window will open, go to the second tab (credentials)
     - Type your channel name
