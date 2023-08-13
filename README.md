@@ -1,4 +1,5 @@
-# Twitch Channel Points Bot, by ZiedYT
+# Chat's Revenge
+## Twitch Channel Points Bot, by ZiedYT
 DM me for any issues :)
 ## Features
 - Runs locally (for free :D) in your PC to enable channel points rewards
