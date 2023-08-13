@@ -3,6 +3,7 @@
 DM me for any issues :)
 ## Features
 - Runs locally (for free :D) in your PC to enable channel points rewards
+- Support for both channel points and bits
 - Rewards:
     - Chat can timeout/untimeout each other
     - Chat can turn off your monitor
@@ -14,7 +15,7 @@ DM me for any issues :)
     - Chat can playsounds
     - More to come :D
 ## How To Use
-- Download the zip of the lastest release [here](https://github.com/ZiedYT/ChannelPointsBot_public/releases)
+- Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases)
 - Extract the zip
 - Run rewardsBot.exe (or rewardsBot_console.exe if you want to see the console for errors)
 - A window will open, go to the second tab (credentials)
@@ -27,8 +28,17 @@ DM me for any issues :)
     - You can specify the title, description and cost
     - Create the rewards you want to use
 - Open the first tab:
-    - If you want to use a reward, make sure the checkbox is ticked.
+    - If you want to use a reward, make sure the checkbox is ticked. (this only affects the channel points rewards)
     - You can specify some parameters like the duration etc...
+- Add the bits extension to your channel, and configure the bits rewards you want to add
+- Advice:
+    - First Tab:    
+        - The stackable checkbox affects both channel points and bits
+        - The other configurations on the first tab affect only affects channel points
+    - Configure the bits parameters (eg: duration) in the extension dashboard:
+        - You can create multiple variations each with their bits amount:
+          - Example: Multiple timeout options, the longer the duration the more bits are needed
+      - IF YOU ARE USING TWO VARIATIONS OF THE SAME ACTION (EXAMPLE BITS AND CHANNEL POINTS) MAKE SURE THE STACKABLE PARAMETER IS ON
 - More Info:
     - If you minimize the window you will find the program in your try, right click it    
     - fail-safe: press on esc+q and the current effects will expire
@@ -39,7 +49,7 @@ DM me for any issues :)
         - When you use this reward, you will not be able to use OBS virtual camera to display your OBS capture as a camera since only one application can write into OBS virtual camera.
         - You can choose which camera you want to use in the dropdown list
         - You can specify the duration for which the camera will be disabled
-        - You can specify if the duration is stackable (eg if 3 people claim the reward the camera will be disabled 3 times longer)
+        - You can specify if the duration is stackable
     - Monitor:
         - Allow chat to temporarily disable/blur/rotate your monitors.
         - You can specify the duration for which the monitors will be affected
@@ -62,6 +72,6 @@ DM me for any issues :)
             - Creating a pastebin link
             - Uploading an mp3 to audio.jukehost.co.uk, copy its link
             - Add a new line in your pastebin, eg, file_name = drive_url
-            - Copy the pastebin link in the field provided in the program
+            - Copy the pastebin link in the field provided in the program/ extension dashboard(and select the bits amount)
         - Chat has to type the file name to play the sound (or a random one will be selected)
 
