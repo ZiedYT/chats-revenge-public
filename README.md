@@ -17,7 +17,7 @@ DM me for any issues :)
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases)
 - Extract the zip
-- Run rewardsBot.exe (or rewardsBot_console.exe if you want to see the console for errors)
+- Run  chatsRevenge.exe (or rewardsBot_console.exe if you want to see the console for errors)
 - A window will open, go to the second tab (credentials)
     - Type your channel name
     - Press the get token button
@@ -30,7 +30,7 @@ DM me for any issues :)
 - Open the first tab:
     - If you want to use a reward, make sure the checkbox is ticked. (this only affects the channel points rewards)
     - You can specify some parameters like the duration etc...
-- Add the bits extension to your channel, and configure the bits rewards you want to add
+- Add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax-0.0.1), and configure the bits rewards you want to add
 - Advice:
     - First Tab:    
         - The stackable checkbox affects both channel points and bits
