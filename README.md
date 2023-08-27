@@ -2,7 +2,6 @@
 ## Twitch bits and channel points rewrds bot, by ZiedYT
 DM me for any issues :)
 ## Features
-- Runs locally (for free :D) in your PC to enable channel points rewards
 - Support for both channel points and bits
 - Rewards:
     - Chat can timeout/untimeout each other
@@ -40,7 +39,7 @@ DM me for any issues :)
           - Example: Multiple timeout options, the longer the duration the more bits are needed
       - IF YOU ARE USING TWO VARIATIONS OF THE SAME ACTION (EXAMPLE BITS AND CHANNEL POINTS) MAKE SURE THE STACKABLE PARAMETER IS ON
 - More Info:
-    - If you minimize the window you will find the program in your try, right click it    
+    - If you minimize the window you will find the program in your tray, right click it    
     - fail-safe: press on esc+q and the current effects will expire
     - Camera:   
         - Allow chat to temporarily disabled your camera.     
