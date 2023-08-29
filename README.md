@@ -8,6 +8,7 @@ DM me for any issues :)
     - Chat can turn off your monitor
     - Chat can blur your monitor
     - Chat can rotate your monitor
+    - Chat can minimize your current window
     - Chat can turn off your camera
     - Chat can simulate keyboard presses
     - Chat can disable your keyboard/mouse
