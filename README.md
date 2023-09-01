@@ -17,7 +17,7 @@ DM me for any issues :)
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases)
 - Extract the zip
-- Run  chatsRevenge.exe (or rewardsBot_console.exe if you want to see the console for errors)
+- Run  chatsRevenge_console.exe
 - A window will open, go to the second tab (credentials)
     - Type your channel name
     - Press the get token button
