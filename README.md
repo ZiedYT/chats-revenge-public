@@ -31,6 +31,7 @@ DM me for any issues :)
     - If you want to use a reward, make sure the checkbox is ticked. (this only affects the channel points rewards)
     - You can specify some parameters like the duration etc...
 - Add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax-0.0.1), and configure the bits rewards you want to add
+- If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23336/
 - Advice:
     - First Tab:    
         - The stackable checkbox affects both channel points and bits
