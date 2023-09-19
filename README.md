@@ -7,6 +7,7 @@ DM me for any issues :)
     - Chat can timeout/untimeout each other
     - Chat can turn off your monitor
     - Chat can blur your monitor
+    - Chat can mute your mic
     - Chat can rotate your monitor
     - Chat can minimize your current window
     - Chat can turn off your camera
@@ -36,6 +37,7 @@ DM me for any issues :)
     - Select "chatsRevenge.lua"
     - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat). Right click on the source > Transform > Edit Transform > Positional allignment: center.
     - Type the name of your camera source that you want chat to turn off
+    - Type the audio source (mic) you want chat to mute
 - If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23336/
 - Advice:
     - First Tab:    
@@ -53,6 +55,9 @@ DM me for any issues :)
         - For this, you have to set up the lua script in OBS as mentioned above.
         - You can specify the duration for which the camera will be disabled
         - You can specify if the duration is stackable
+    - Mute:
+        - Allow chat to temporarily mute your OBS audio source.
+        - You need to set up the lua script in OBS as mentioned above.
     - Monitor:
         - Allow chat to temporarily disable/blur/rotate your monitors.
             -  For monitor rotation, make sure to set up the lua script in OBS as mentioned above. (so that it rotates for chat as well)
