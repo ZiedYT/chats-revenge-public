@@ -35,7 +35,9 @@ DM me for any issues :)
 - Open OBS:
     - Add Lua script by: Tools > Scripts > "+"
     - Select "chatsRevenge.lua"
-    - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat). Right click on the source > Transform > Edit Transform > Positional allignment: center.
+    - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat).
+        - Right click on the source > Transform > Edit Transform > Positional allignment: center.
+        - DO THIS FOR EVERY SCENE WITH THIS MONITOR
     - Type the name of your camera source that you want chat to turn off
     - Type the audio source (mic) you want chat to mute
 - If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23336/
