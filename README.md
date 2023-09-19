@@ -31,6 +31,11 @@ DM me for any issues :)
     - If you want to use a reward, make sure the checkbox is ticked. (this only affects the channel points rewards)
     - You can specify some parameters like the duration etc...
 - Add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax-0.0.1), and configure the bits rewards you want to add
+- Open OBS:
+    - Add Lua script by: Tools > Scripts > "+"
+    - Select "chatsRevenge.lua"
+    - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat)
+    - Type the name of your camera source that you want chat to turn off
 - If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23336/
 - Advice:
     - First Tab:    
@@ -45,14 +50,12 @@ DM me for any issues :)
     - fail-safe: press on esc+q and the current effects will expire
     - Camera:   
         - Allow chat to temporarily disabled your camera.     
-        - This reward uses OBS virtual cam. To use it, you have to add the OBS virtual cam as your camera input in your OBS. 
-        - You have to disbale your main camera in your OBS since two applications cant have access to the same camera at the same time.
-        - When you use this reward, you will not be able to use OBS virtual camera to display your OBS capture as a camera since only one application can write into OBS virtual camera.
-        - You can choose which camera you want to use in the dropdown list
+        - For this, you have to set up the lua script in OBS as mentioned above.
         - You can specify the duration for which the camera will be disabled
         - You can specify if the duration is stackable
     - Monitor:
         - Allow chat to temporarily disable/blur/rotate your monitors.
+            -  For monitor rotation, make sure to set up the lua script in OBS as mentioned above. (so that it rotates for chat as well)
         - You can specify the duration for which the monitors will be affected
         - You can specify if the reward is stackable
     - Timeouts:
