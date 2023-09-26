@@ -70,6 +70,9 @@ DM me for any issues :)
             -  For monitor rotation, make sure to set up the lua script in OBS as mentioned above. (so that it rotates for chat as well)
         - You can specify the duration for which the monitors will be affected
         - You can specify if the reward is stackable
+    - Window Effects:
+        - Chat can apply effects (shrink, pixelate, lag, glitch) the game window.
+        - You have to select your monitor that chat sees and select the game window
     - Timeouts:
         - Allow chat to timeout each other.
         - Doesn't work on mods/vips
