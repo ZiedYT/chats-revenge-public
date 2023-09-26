@@ -7,9 +7,14 @@ DM me for any issues :)
     - Chat can timeout/untimeout each other
     - Chat can turn off your monitor
     - Chat can blur your monitor
-    - Chat can mute your mic
     - Chat can rotate your monitor
     - Chat can minimize your current window
+    - Chat can open popup windows
+    - Chat can apply glitch effect to your game
+    - Chat can make your game lag
+    - Chat can shrink your game
+    - Chat can pixelate your game
+    - Chat can mute your mic
     - Chat can turn off your camera
     - Chat can simulate keyboard presses
     - Chat can disable your keyboard/mouse
