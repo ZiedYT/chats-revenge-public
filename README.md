@@ -22,6 +22,7 @@ DM me for any issues :)
     - More to come :D
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases)
+- If you want to use Bits, add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax-0.0.1), and configure the bits rewards you want to add
 - Extract the zip
 - As admin, run chatsRevenge.exe (or chatsRevenge_console.exe if the other one doesnt run)
 - A window will open, go to the second tab (credentials)
@@ -36,7 +37,6 @@ DM me for any issues :)
 - Open the first tab:
     - If you want to use a reward, make sure the checkbox is ticked. (this only affects the channel points rewards)
     - You can specify some parameters like the duration etc...
-- Add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax-0.0.1), and configure the bits rewards you want to add
 - Open OBS:
     - Add Lua script by: Tools > Scripts > "+"
     - Select "chatsRevenge.lua"
