@@ -45,7 +45,7 @@ DM me for any issues :)
         - DO THIS FOR EVERY SCENE WITH THIS MONITOR
     - Type the name of your camera source that you want chat to turn off
     - Type the audio source (mic) you want chat to mute
-- If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23336/
+- If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23337/
 - Advice:
     - First Tab:    
         - The stackable checkbox affects both channel points and bits
