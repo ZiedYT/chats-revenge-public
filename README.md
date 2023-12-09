@@ -21,6 +21,7 @@ DM me for any issues :)
     - Chat can playsounds
     - More to come :D
 ## Game Mods:
+Game mods where chat can influence the game using bits.
 [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
  
 ## How To Use
