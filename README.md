@@ -20,6 +20,9 @@ DM me for any issues :)
     - Chat can disable your keyboard/mouse
     - Chat can playsounds
     - More to come :D
+## Game Mods:
+[Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
+ 
 ## How To Use
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases)
 - If you want to use Bits, add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax-0.0.1), and configure the bits rewards you want to add
