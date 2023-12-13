@@ -44,7 +44,7 @@ Game mods where chat can influence the game using bits.
     - You can specify some parameters like the duration etc...
 - If you want to use the "rotate monitor" ,"mute mic", "turn off can" rewards, Open OBS:
     - Add Lua script by: Tools > Scripts > "+"
-    - Select "chatsRevenge.lua"
+    - Select "lua/chatsRevenge.lua"
     - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat).
         - Right click on the source > Transform > Edit Transform > Positional allignment: center.
         - DO THIS FOR EVERY SCENE WITH THIS MONITOR
