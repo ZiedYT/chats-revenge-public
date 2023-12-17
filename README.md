@@ -26,7 +26,7 @@ Game mods where chat can influence the game using bits.
 - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
 - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)
 
-## How To Use
+## Set up
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases). passocde: `verystrongpassword`
 - To use Bits: add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax), and configure the bits rewards you want to add
 - Extract the zip
