@@ -28,7 +28,7 @@ Game mods where chat can influence the game using bits.
 
 ## Set up
 - To use Bits: add the bits extension to your channel [here](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax), and configure the bits rewards you want to add
-- Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases). passocde: `verystrongpassword`
+- Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases/latest). passocde: `verystrongpassword`
 - Extract the zip.
 - As admin, run chatsRevenge.exe (or chatsRevenge_console.exe if the other one doesnt run)
 - A window will open, go to the second tab (credentials)
