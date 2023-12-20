@@ -1,6 +1,6 @@
 # Chat's Revenge
 ## Twitch bits and channel points rewrds bot, by ZiedYT
-DM me for any issues :)
+[DM me for any issues](https://twitter.com/ZiedYT) :)
 ## Features
 - Support for both channel points and bits
 - Rewards:
