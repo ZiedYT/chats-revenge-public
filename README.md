@@ -27,6 +27,7 @@ Game mods where chat can influence the game using bits.
 - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)  (not added yet, waiting for twitch review)
 
 ## Set up
+- <a href="http://example.com/" target="_blank">example</a>
 - [If you want to use bits: add the extension"](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax)
 - Configure the bits rewards you want to add
 - Download the zip of the lastest release [here](https://github.com/ZiedYT/chats-revenge-public/releases/latest). passocde: `verystrongpassword`
