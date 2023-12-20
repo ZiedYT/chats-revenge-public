@@ -31,13 +31,14 @@ Game mods where chat can influence the game using bits.
 - Configure the bits rewards you want to add
 - [Download the zip of the lastest release](https://github.com/ZiedYT/chats-revenge-public/releases/latest). passocde: `verystrongpassword`
 - Extract the zip.
-- Run chatsRevenge (or as admin run chatsRevenge_main/chatsRevenge_console.exe if the other one doesnt run)
+- Run chatsRevenge.bat (or as admin run chatsRevenge_main/chatsRevenge_console.exe if the other one doesnt run)
 - A window will open, go to the second tab (credentials)
     - Type your channel name
-    - Press the get token button
+    - Press the get token button (dont show stream)
     - Authorize and copy the token
-    - Paste the token in the second line
-- To use bits: Open the third tab:
+    - Paste the token in the second field
+- To use and configure channel points:
+    - Open the third tab
     - Here you can press the create reward button to add a reward in your channel
     - You can specify the title, description and cost
     - Create the rewards you want to use
