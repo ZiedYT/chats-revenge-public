@@ -96,10 +96,16 @@ Game mods where chat can influence the game using bits.
     - You can specify if the duration is stackable
     - You can choose which of the special keys can be simulated: alt, shift, ctrl, esc, enter, tab, function keys(f1, f2...)
 - Playsounds:
-    - To add a sound:
+    - To add sounds:
         - Creating a pastebin link
         - Uploading an mp3 to audio.jukehost.co.uk, copy its link
         - Add a new line in your pastebin, eg, file_name = drive_url
         - Copy the pastebin link in the field provided in the program/ extension dashboard(and select the bits amount)
     - Chat has to type the file name to play the sound (or a random one will be selected)
-
+- Popups:
+    - To add the images used by the popups:
+        - create a pastebin
+        - upload images to a image hoting website
+        - copy and paste the link in the pastebin
+        - make sure each link of every image is in a new line
+        - copy the pastebin link to the field
