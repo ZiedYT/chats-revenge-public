@@ -45,7 +45,7 @@ Game mods where chat can influence the game using bits.
 - Open the first tab:
     - If you want to use a reward, make sure the checkbox is ticked. (this only affects the channel points rewards)
     - You can specify some parameters like the duration etc...
-- If you want to use the "rotate monitor" ,"mute mic", "turn off cam" rewards, Open OBS:
+- If you want to use the "rotate monitor" ,"mute mic", "turn off cam","Throw tomatos" rewards, Open OBS:
     - Add Lua script by: Tools > Scripts > "+"
     - Select "lua/chatsRevenge.lua"
     - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat).
@@ -53,6 +53,10 @@ Game mods where chat can influence the game using bits.
         - DO THIS FOR EVERY SCENE WITH THIS MONITOR
     - Type the name of your camera source that you want chat to turn off
     - Type the audio source (mic) you want chat to mute
+    - Type the tomato throwing overlay name
+- If you want to use the tomato throwing reward:
+    - Add this as a browser source to your obs `https://github.com/ZiedYT/chatsRevenge-TomatoThrow`
+    - If you didn't already, add the Lua script and type your tomato overlay name
 - If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23337/
   
 ## Advice
