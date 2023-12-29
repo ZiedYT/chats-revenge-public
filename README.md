@@ -18,7 +18,9 @@
     - Chat can turn off your camera
     - Chat can simulate keyboard presses
     - Chat can disable your keyboard/mouse
+    - Chat can invert your keyboard
     - Chat can playsounds
+    - Chat can throw tomatos at your screen.
     - More to come :D
 ## Game Mods:
 Game mods where chat can influence the game using bits.
@@ -57,6 +59,7 @@ Game mods where chat can influence the game using bits.
 - If you want to use the tomato throwing reward:
     - Add this as a browser source to your obs `https://github.com/ZiedYT/chatsRevenge-TomatoThrow`
     - If you didn't already, add the Lua script and type your tomato overlay name
+    - Credits to [abdullahmorrison](https://github.com/abdullahmorrison/erobb221-twitch-extension/tree/main). I used his repo can a template for the tomatos
 - If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23337/
   
 ## Advice
@@ -113,3 +116,4 @@ Game mods where chat can influence the game using bits.
         - copy and paste the link in the pastebin
         - make sure each link of every image is in a new line
         - copy the pastebin link to the field
+
