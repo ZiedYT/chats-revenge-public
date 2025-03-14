@@ -26,7 +26,8 @@
 Game mods where chat can influence the game using bits.
 
 - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
-- [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)  (not added yet, waiting for twitch review)
+- [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/)
+- [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)
 
 ## Set up
 - [If you want to use bits: add the extension to your channel](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax)
