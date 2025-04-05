@@ -31,7 +31,7 @@ Game mods where chat can influence the game using bits.
 - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
 - [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/)
 - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)
-- [Schedule I]([https://github.com/ZiedYT/chatsRevenge-firered/](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/))
+- [Schedule I](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/)
 
 ## Set up
 - [If you want to use bits: add the extension to your channel](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax)
