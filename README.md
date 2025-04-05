@@ -19,8 +19,11 @@
     - Chat can simulate keyboard presses
     - Chat can disable your keyboard/mouse
     - Chat can invert your keyboard
-    - Chat can playsounds
-    - Chat can throw tomatos at your screen.
+    - Game specific effects for:
+        - REPO
+        - Schedule I
+        - Lethal Company
+        - Pokemon Firered
     - More to come :D
 ## Game Mods:
 Game mods where chat can influence the game using bits.
