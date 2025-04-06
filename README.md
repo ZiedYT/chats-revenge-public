@@ -44,7 +44,9 @@ Game mods where chat can influence the game using bits.
     - Press the get token button (dont show stream)
     - Authorize and copy the token
     - Paste the token in the second field
-
+    - The window hides in your task tray when minimized. 
+    - The windows app needs to be running for the mods and effects to work.
+    - 
 - If you want to use the "rotate monitor" ,"mute mic", "turn off cam","Throw tomatos" rewards, Open OBS:
     - Add Lua script by: Tools > Scripts > "+"
     - Select "lua/chatsRevenge.lua"
