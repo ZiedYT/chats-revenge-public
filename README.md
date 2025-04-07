@@ -25,7 +25,7 @@
         - Lethal Company
         - Pokemon Firered
     - More to come :D
-- `By adding the Lua script the software will automatically launched when opening OBS` 
+- `By adding the Lua script the software will automatically be launched when opening OBS` 
 ## Game Mods:
 Game mods where chat can influence the game using bits.
 
@@ -55,7 +55,7 @@ Game mods where chat can influence the game using bits.
         - Right click on the source > Transform > Edit Transform > Positional allignment: center.
     - Type the name of your camera source that you want chat to turn off
     - Type the audio source (mic) you want chat to mute
-    - `By adding the Lua script the software will automatically launched when opening OBS` 
+    - `By adding the Lua script the software will be automatically be launched when opening OBS` 
 - If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23337/
   
 ## Advice
