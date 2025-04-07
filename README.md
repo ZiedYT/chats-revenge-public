@@ -25,6 +25,7 @@
         - Lethal Company
         - Pokemon Firered
     - More to come :D
+- `By adding the Lua script the software will automatically launched when opening OBS` 
 ## Game Mods:
 Game mods where chat can influence the game using bits.
 
@@ -47,13 +48,14 @@ Game mods where chat can influence the game using bits.
     - The window hides in your task tray when minimized. 
     - The windows app needs to be running for the mods and effects to work.
     - 
-- If you want to use the "rotate monitor" ,"mute mic", "turn off cam","Throw tomatos" rewards, Open OBS:
+- If you want to use the "rotate monitor" ,"mute mic", "turn off cam", rewards, Open OBS:
     - Add Lua script by: Tools > Scripts > "+"
     - Select "lua/chatsRevenge.lua"
     - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat).
         - Right click on the source > Transform > Edit Transform > Positional allignment: center.
     - Type the name of your camera source that you want chat to turn off
     - Type the audio source (mic) you want chat to mute
+    - `By adding the Lua script the software will automatically launched when opening OBS` 
 - If you want an overlay that shows your chat what effect is currently running, you can add this to your OBS as a source: http://localhost:23337/
   
 ## Advice
