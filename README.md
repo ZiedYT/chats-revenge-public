@@ -7,15 +7,15 @@
     - Chat can timeout/untimeout each other
     - Chat can turn off your monitor
     - Chat can blur your monitor
-    - Chat can rotate your monitor
+    - Chat can rotate your monitor (requires the additional lua script below to sync what you and your chat see)
     - Chat can minimize your current window
     - Chat can open popup windows
     - Chat can apply glitch effect to your game
     - Chat can make your game lag
     - Chat can shrink your game
     - Chat can pixelate your game
-    - Chat can mute your mic
-    - Chat can turn off your camera
+    - Chat can mute your mic (requires the additional lua script below)
+    - Chat can turn off your camera (requires the additional lua script below)
     - Chat can simulate keyboard presses
     - Chat can disable your keyboard/mouse
     - Chat can invert your keyboard
