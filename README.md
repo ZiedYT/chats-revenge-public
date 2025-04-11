@@ -58,8 +58,6 @@ Game mods where chat can influence the game using bits.
 - If you want to use the "mute mic", "turn off cam", rewards, Open OBS:
     - Add Lua script by: Tools > Scripts > "+"
     - Select "lua/chatsRevenge.lua"
-    - Type the name of your monitor source that you want chat to rotate (So that It will rotate for you and chat).
-        - Right click on the source > Transform > Edit Transform > Positional allignment: center.
     - Type the name of your camera source that you want chat to turn off
     - Type the audio source (mic) you want chat to mute
     - `By adding the Lua script the software will be automatically be launched when opening OBS`
