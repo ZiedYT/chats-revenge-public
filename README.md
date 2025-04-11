@@ -25,7 +25,7 @@
         - Chat can invert your keyboard
           
     - Chat can timeout/untimeout each other (Doesn't work on mods/vips)
-
+    - `Game specific game mods`
         - [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/), follow the mod setup in the mod page
         - [Schedule I](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/), follow the mod setup in the mod page
         - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/), follow the mod setup in the mod page
