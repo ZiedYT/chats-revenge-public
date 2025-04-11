@@ -3,8 +3,7 @@
 [DM me for any issues](https://twitter.com/ZiedYT) :)
 ## Features
 - Support for both channel points and bits
-- Rewards:
-    - # General effects: work everywhere, not limited to games.  
+- Rewards include general effects that work everywhere not only limited to game, and some game specific mods:
     - `Display Rewards`: (require display capture and not window capture on OBS)
         - Chat can turn off your monitor
         - Chat can blur your monitor
@@ -26,21 +25,21 @@
         - Chat can invert your keyboard
           
     - Chat can timeout/untimeout each other (Doesn't work on mods/vips)
-    - # Game specific effects for:
-        - [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/)
-        - [Schedule I](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/)
-        - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
-        - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)
+
+        - [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/), follow the mod setup in the mod page
+        - [Schedule I](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/), follow the mod setup in the mod page
+        - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/), follow the mod setup in the mod page
+        - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/), follow the mod setup in the mod page
     - More to come :D
 - `By adding the Lua script you can choose if the software should automatically be launched when opening OBS`
   
 ## Game Mods:
 Game mods where chat can influence the game using bits.
 
-- [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
-- [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/)
-- [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)
-- [Schedule I](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/)
+- [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/), follow the mod setup in the mod page
+- [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/), follow the mod setup in the mod page
+- [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/), follow the mod setup in the mod page
+- [Schedule I](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/), follow the mod setup in the mod page
 
 ## Set up
 - [If you want to use bits: add the extension to your channel](https://dashboard.twitch.tv/extensions/6fwhzhvt0ljihf9o1vzvjfp12jvkax)
