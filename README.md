@@ -31,7 +31,7 @@
         - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
         - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)
     - More to come :D
-- `By adding the Lua script the software will automatically be launched when opening OBS` 
+- `By adding the Lua script you can choose if the software should automatically be launched when opening OBS` 
 ## Game Mods:
 Game mods where chat can influence the game using bits.
 
