@@ -31,7 +31,6 @@
         - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/), follow the mod setup in the mod page
         - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/), follow the mod setup in the mod page
     - More to come :D
-- `By adding the Lua script you can choose if the software should automatically be launched when opening OBS`
   
 ## Game Mods:
 Game mods where chat can influence the game using bits.
@@ -61,7 +60,7 @@ Game mods where chat can influence the game using bits.
     - Select "lua/chatsRevenge.lua"
     - Type the name of your camera source that you want chat to turn off
     - Type the audio source (mic) you want chat to mute
-    - `By adding the Lua script the software will be automatically be launched when opening OBS`
+    - `By adding the Lua script you can choose if the software should automatically be launched when opening OBS`
 - If you want to choose what shows up in the `open popups` reward you can either:
     - (Locally) On the windows app, go to `Settings` > press `Media Folder`. you can copy paste your images there.
       
