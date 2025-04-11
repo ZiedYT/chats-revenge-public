@@ -4,6 +4,7 @@
 ## Features
 - Support for both channel points and bits
 - Rewards:
+    - # General effects: work everywhere, not limited to games.  
     - `Display Rewards`: (require display capture and not window capture on OBS)
         - Chat can turn off your monitor
         - Chat can blur your monitor
@@ -24,14 +25,15 @@
         - Chat can disable your keyboard/mouse
         - Chat can invert your keyboard
           
-    - Chat can timeout/untimeout each other
-    - Game specific effects for:
+    - Chat can timeout/untimeout each other (Doesn't work on mods/vips)
+    - # Game specific effects for:
         - [R.E.P.O](https://thunderstore.io/c/repo/p/ZiedYT/Chats_Revenge_REPO/)
         - [Schedule I](https://thunderstore.io/c/schedule-i/p/ZiedYT/Chats_Revenge_Schedule_I/)
         - [Lethal Company](https://thunderstore.io/c/lethal-company/p/ZiedYT/ChatsRevenge/)
         - [Pokemon Firered](https://github.com/ZiedYT/chatsRevenge-firered/)
     - More to come :D
-- `By adding the Lua script you can choose if the software should automatically be launched when opening OBS` 
+- `By adding the Lua script you can choose if the software should automatically be launched when opening OBS`
+  
 ## Game Mods:
 Game mods where chat can influence the game using bits.
 
@@ -65,7 +67,7 @@ Game mods where chat can influence the game using bits.
     - (Locally) On the windows app, go to `Settings` > press `Media Folder`. you can copy paste your images there.
       
     - (Remote) You can allow your moderators to remotely update the used images by:
-        - [Creating a new paste bin] (https://pastebin.com/)
+        - [Creating a new paste bin](https://pastebin.com/)
         - Uploading images to a image hosting website
         - Copying the `direct` image url (example: i.imgur.com/imageid.jpeg works, imgur.com/a/imageid doesnt work)
         - Pasting the image urls, each one in a new line
@@ -78,34 +80,5 @@ Game mods where chat can influence the game using bits.
 ## Advice
 - Configure the parameters (eg: duration) in the extension dashboard:
 - fail-safe: press on esc+q and the current effects will expire
-## General effects: work everywhere, not limited to games.
-- Camera:   
-    - Allow chat to temporarily disabled your camera.     
-    - For this, you have to set up the lua script in OBS as mentioned above.
-- Mute:
-    - Allow chat to temporarily mute your OBS audio source.
-    - You need to set up the lua script in OBS as mentioned above.
-- Monitor:
-    - Allow chat to temporarily disable/blur/rotate your monitors.
-    - You can specify the duration for which the monitors will be affected
-- Window Effects:
-    - Chat can apply effects (shrink, pixelate, lag, glitch) the game window.
-- Timeouts:
-    - Allow chat to timeout each other.
-    - Doesn't work on mods/vips
-    - You can specify the duration for which the the chatter will be timed out for.
-- Untimeouts:
-    - Allow chat to remove timeouts
-- Keyboard:
-    - Allow chat to simulate keyboard presses.
-    - You can specify the duration of the key press
-    - You can choose which of the special keys can be simulated: alt, shift, ctrl, esc, enter, tab, function keys(f1, f2...)
 
-- Popups:
-    - To add the images used by the popups:
-        - create a pastebin
-        - upload images to a image hoting website
-        - copy and paste the link in the pastebin
-        - make sure each link of every image is in a new line
-        - copy the pastebin link to the field
 
